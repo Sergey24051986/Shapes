@@ -1,6 +1,6 @@
 package Shapes.Triangles;
 
-public class RightAngledTriangle {
+public class RightAngledTriangle extends Triangle{
     String name;
     RightAngledTriangle() {
         name = "Прямоугольный треугольник";

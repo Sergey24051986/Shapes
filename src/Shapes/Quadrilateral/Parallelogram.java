@@ -1,6 +1,6 @@
 package Shapes.Quadrilateral;
 
-public class Parallelogram {
+public class Parallelogram extends Quadrilateral {
     String name;
     Parallelogram() {
         name = "Параллелограмм";

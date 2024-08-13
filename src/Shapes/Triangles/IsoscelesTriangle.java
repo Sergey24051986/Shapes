@@ -1,6 +1,6 @@
 package Shapes.Triangles;
 
-public class IsoscelesTriangle {
+public class IsoscelesTriangle extends Triangle{
     String name;
     IsoscelesTriangle() {
         name = "Равнобедренный реугольник";

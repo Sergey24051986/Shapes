@@ -1,6 +1,6 @@
 package Shapes.Quadrilateral;
 
-public class Rhomb {
+public class Rhomb extends Quadrilateral {
     String name;
     Rhomb() {
         name = "Ромб";

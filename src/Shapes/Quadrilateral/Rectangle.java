@@ -1,6 +1,6 @@
 package Shapes.Quadrilateral;
 
-public class Rectangle {
+public class Rectangle extends Quadrilateral {
     String name;
     Rectangle() {
         name = "Четырехугольник";

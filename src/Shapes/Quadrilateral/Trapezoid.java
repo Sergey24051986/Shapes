@@ -1,6 +1,6 @@
 package Shapes.Quadrilateral;
 
-public class Trapezoid {
+public class Trapezoid extends Quadrilateral {
     String name;
     Trapezoid() {
         name = "Трапеция";

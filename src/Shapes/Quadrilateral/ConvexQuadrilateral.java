@@ -1,6 +1,6 @@
 package Shapes.Quadrilateral;
 
-public class ConvexQuadrilateral {
+public class ConvexQuadrilateral extends Quadrilateral{
     String name;
     ConvexQuadrilateral() {
         name = "Выпуклый четырехугольник";
